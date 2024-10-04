@@ -17,7 +17,14 @@
 4. **Result Generation:** The Gemini Pro pre-trained model processes the input and generates the output.
 5. **Output Display:** The results are returned to the frontend for formatting and display.
 
+### Screenshots
 ![GeminiDecode Screenshot](assets/hosting_streamlist_code_execution.png)
+
+![GeminiDecode Screenshot](output_screenshots/hosting_streamlit.png)
+
+![GeminiDecode Screenshot](output_screenshots/streamlist_result1.png)
+
+![GeminiDecode Screenshot](output_screenshots/streamlist_result2.png)
 
 ## Requirements
 
