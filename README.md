@@ -18,13 +18,10 @@
 5. **Output Display:** The results are returned to the frontend for formatting and display.
 
 ### Screenshots
-![GeminiDecode Screenshot](assets/hosting_streamlist_code_execution.png)
-
-![GeminiDecode Screenshot](output_screenshots/hosting_streamlit.jpg)
-
-![GeminiDecode Screenshot](output_screenshots/streamlist_result1.jpg)
-
-![GeminiDecode Screenshot](output_screenshots/streamlist_result2.jpg)
+![Streamlit Code Execution](assets/hosting_streamlist_code_execution.png)
+![Streamlit Hosting Screenshot](outputs_screenshots/hosting_streamlit.jpg)
+![Streamlit Result - Example 1](outputs_screenshots/streamlist_result1.jpg)
+![Streamlit Result - Example 2](outputs_screenshots/streamlist_result2.jpg)
 
 ## Requirements
 
