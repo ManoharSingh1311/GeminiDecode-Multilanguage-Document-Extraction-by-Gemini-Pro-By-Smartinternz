@@ -20,11 +20,11 @@
 ### Screenshots
 ![GeminiDecode Screenshot](assets/hosting_streamlist_code_execution.png)
 
-![GeminiDecode Screenshot](output_screenshots/hosting_streamlit.png)
+![GeminiDecode Screenshot](output_screenshots/hosting_streamlit.jpg)
 
-![GeminiDecode Screenshot](output_screenshots/streamlist_result1.png)
+![GeminiDecode Screenshot](output_screenshots/streamlist_result1.jpg)
 
-![GeminiDecode Screenshot](output_screenshots/streamlist_result2.png)
+![GeminiDecode Screenshot](output_screenshots/streamlist_result2.jpg)
 
 ## Requirements
 
