@@ -1,0 +1,1 @@
+# GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro-By-Smartinternz
