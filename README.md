@@ -20,7 +20,7 @@
 ### Screenshots
 ![Streamlit Code Execution](assets/hosting_streamlist_code_execution.png)
 ![Streamlit Hosting Screenshot](outputs_screenshots/hosting_streamlit.jpg)
-![Streamlit Result - Example 1](outputs_screenshots/streamlist_result1.jpg)
+![Streamlit Result - Example 1](outputs_screenshots/streamlit_result1.jpg)
 ![Streamlit Result - Example 2](outputs_screenshots/streamlist_result2.jpg)
 
 ## Requirements
