@@ -17,7 +17,7 @@
 4. **Result Generation:** The Gemini Pro pre-trained model processes the input and generates the output.
 5. **Output Display:** The results are returned to the frontend for formatting and display.
 
-![GeminiDecode Screenshot](https://github.com/ManoharSingh1311/GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro-By-Smartinternz/outputs_screenshots)
+![GeminiDecode Screenshot](assets/hosting_streamlist_code_execution.png)
 
 ## Requirements
 
