@@ -32,7 +32,7 @@ To run this project, you need to have:
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository :
 
    ```bash
    git clone https://github.com/ManoharSingh1311/GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro-By-Smartinternz.git
